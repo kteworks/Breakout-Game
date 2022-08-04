@@ -3,7 +3,7 @@ Unityで制作した単純なブロック崩しゲームです。Windows用
 UnityEditor Version 2019.4.34f1
   
 画像読み込みモードで使用できる画像を[バイナリファイル](https://github.com/kteworks/Breakout-Game/releases)のImagesフォルダにいくつか同梱しています。  
-ぜひ利用してみてください。  
+  
 ![image](https://user-images.githubusercontent.com/110329418/182745289-6d84ea09-82b7-4495-bef7-c5ec457b3faa.png)  
   
   

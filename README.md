@@ -1,4 +1,4 @@
-## Breakout-Game
+## ◇Breakout-Game
 Unityで制作した単純なブロック崩しゲームです。Windows用
 UnityEditor Version 2019.4.34f1
   

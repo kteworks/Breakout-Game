@@ -71,6 +71,7 @@ public class MenuUI : MonoBehaviour
 	public void ImageSelect()
     {
 		System.Windows.Forms.OpenFileDialog ofd = new System.Windows.Forms.OpenFileDialog();
+		ofd.InitialDirectory = System.AppDomain.CurrentDomain.BaseDirectory + "\\images";
 		ofd.Filter = "PNG files (*.png)|*.png";
 		ofd.Title = "PNG画像ファイルを選択してください";
 		ofd.ShowDialog();

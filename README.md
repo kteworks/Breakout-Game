@@ -4,6 +4,8 @@ UnityEditor Version 2019.4.34f1
   
 画像読み込みモードで使用できる画像を[バイナリファイル](https://github.com/kteworks/Breakout-Game/releases)のImagesフォルダにいくつか同梱しています。  
 ぜひ利用してみてください。  
+![image](https://user-images.githubusercontent.com/110329418/182745289-6d84ea09-82b7-4495-bef7-c5ec457b3faa.png)  
+  
   
 まだブロックにボールが当たった時の動作が不安定です。
 指定した数のブロックを生成できます。
